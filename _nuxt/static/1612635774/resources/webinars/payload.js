@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/resources/webinars", {data:[{}],fetch:[],mutations:void 0});

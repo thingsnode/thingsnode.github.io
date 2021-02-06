@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/resources/whats-new", {data:[{}],fetch:[],mutations:void 0});
